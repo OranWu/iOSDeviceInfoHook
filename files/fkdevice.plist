@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hook</key>
+	<string>AppStore SpringBoard Preferences familycircled searchd syncdefaultsd </string>
+	<key>SerialNumber</key>
+	<string>F2LPV0K7G5QM</string>
+	<key>HWModelStr</key>
+	<string>N56AP</string>
+	<key>ProductType</key>
+	<string>iPhone7,1</string>
+	<key>ModelNumber</key>
+	<string>14A456</string>
+	<key>InternationalMobileEquipmentIdentity</key>
+	<string>2359175078310544</string>
+	<key>MobileEquipmentIdentifier</key>
+	<string>235917507831054</string>
+	<key>UniqueDeviceID</key>
+	<string>afc922f23920f54523773fa2a8d024ea6f67d7d5</string>
+	<key>mac-address-wifi</key>
+	<string>d8:1d:72:b0:d8:a5</string>
+	<key>mac-address-bluetooth</key>
+	<string>d8:1d:72:b0:d8:a6</string>
+	<key>unique-chip-id</key>
+	<string>624E2D83C6919100</string>
+</dict>
+</plist>

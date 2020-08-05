@@ -1,0 +1,9 @@
+Package: com.kxy.asophoneinfo
+Name: asophoneinfo
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An tweak hook and change phone IMEI SN and so on! 
+Maintainer: Raymond Wu
+Author: Raymond Wu
+Section: Tweaks
